@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.exe
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.deps.json
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.runtimeconfig.json
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.dll
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\bin\Debug\netcoreapp3.1\EncryptAndDecrypt.pdb
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.dll
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.pdb
+C:\Users\ASUS\source\repos\EncryptAndDecrypt\EncryptAndDecrypt\obj\Debug\netcoreapp3.1\EncryptAndDecrypt.genruntimeconfig.cache
